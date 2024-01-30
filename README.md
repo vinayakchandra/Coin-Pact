@@ -1,3 +1,3 @@
-# Starter code for Faucet dApp tutorial
+# Coin Pact
 
-Boilerplate code consisting of a new create-react-app project and some basic HTML and CSS.
+Crypto Playground: Swap, Send, Receive, Bridge – Managing Your Portfolio, the Crypto Way!
